@@ -8,3 +8,4 @@ Team Members:
 * Hanna	Lee	(hl1161@nyu.edu)
 
 Topic: Turnstile Jumping ?
+Slides - https://docs.google.com/presentation/d/1ENXfGrURheSqMylCjArCt9zxrL1v-RolThLUuYqVLFE/edit?usp=sharing
